@@ -1,0 +1,23 @@
+shop_name = input("Enter the shop name: ")
+print(shop_name)
+print("-" * 70)
+products = {
+    "mobile": ["Redmi", "Vivo", "Oppo"],
+    "tv": ["LG", "Samsung", "Sony"],
+    "laptops": ["Dell", "HP", "Lenovo"]
+}
+print("Product List:")
+print("Mobil","TV","Laptops",sep="\t \t")
+item = input("\nChoose your item : ").lower()
+print("-" * 70)
+
+if item in products:
+    print(item , " list:")
+    for product in products[item]:
+        print(product, end=" \t \t")
+    print("\n" + "-" * 70)
+else:
+    print("\nInvalid choice. Please choose from mobile, tv, or laptops.")
+
+
+
