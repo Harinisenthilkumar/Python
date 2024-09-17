@@ -2,9 +2,21 @@
 
 Welcome to the **Python Tasks** repository! This collection contains a series of Python tasks and exercises aimed at enhancing coding skills, problem-solving abilities, and exploring core Python concepts. Whether you’re a beginner or an experienced developer, you’ll find tasks that help you improve and deepen your understanding of Python.
 
-## 📂 Repository Structure
-. ├── Task1/ │ ├── task1_description.md │ └── solution.py ├── Task2/ │ ├── task2_description.md │ └── solution.py └── ...
+# Python Tasks Repository
 
+Welcome to the **Python Tasks** repository! This collection contains a series of Python tasks and exercises aimed at enhancing coding skills, problem-solving abilities, and exploring core Python concepts. Whether you’re a beginner or an experienced developer, you’ll find tasks that help you improve and deepen your understanding of Python.
+
+## 📂 Repository Structure
+
+```bash
+.
+├── Task1/
+│   ├── task1_description.md
+│   └── solution.py
+├── Task2/
+│   ├── task2_description.md
+│   └── solution.py
+└── ...
 Each folder contains:
 
 - A **task_description.md** file that outlines the task.
