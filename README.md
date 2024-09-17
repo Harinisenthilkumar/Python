@@ -36,7 +36,7 @@ Feel free to fork this repository, improve the existing tasks, or add new ones. 
 For any queries, feel free to reach out:
 
 - **GitHub**: [Harinisenthilkumar](https://github.com/Harinisenthilkumar)
-- **Portfolio**: [Harini's Portfolio](https://66ae3bdaa22e2a9586ea3932--jade-lollipop-e61d63.netlify.app/)
+- **Gmail**: [Harini's Mail'id](senthilkumarharini2002@gmail.com)
 
 ---
 
