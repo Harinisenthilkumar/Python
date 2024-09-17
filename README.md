@@ -4,8 +4,6 @@ Welcome to the **Python Tasks** repository! This collection contains a series of
 
 ## 📂 Repository Structure
 
-```bash
-.
 ├── Task1/
 │   ├── task1_description.md
 │   └── solution.py
