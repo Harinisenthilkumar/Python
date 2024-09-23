@@ -2,7 +2,7 @@
 
 # Python Tasks Repository
 
-Welcome to the **Python Tasks** repository! This collection contains a series of Python tasks and exercises aimed at enhancing coding skills, problem-solving abilities, and exploring core Python concepts. Whether you’re a beginner or an experienced developer, you’ll find tasks that help you improve and deepen your understanding of Python.
+Welcome to the **Python Tasks** repository! This collection contains a series of Python tasks and exercises aimed at enhancing coding skills, problem-solving abilities, and exploring core Python concepts. Whether you’re a beginner or an experienced developer, you’ll find tasks that help you improve and deepen your understanding of Python from basics.
 
 ## 📂 Repository Structure
 
@@ -38,6 +38,6 @@ For any queries, feel free to reach out:
 
 ---
 
-Happy Coding! 💻
+Happy Coding guys! 💻
 
 
