@@ -36,7 +36,6 @@ For any queries, feel free to reach out:
 - **GitHub**: [Harinisenthilkumar](https://github.com/Harinisenthilkumar)
 - **Gmail**: [Harini's Mail'id](senthilkumarharini2002@gmail.com)
 ---
-Happy Coding guys! 💻
-Wishing you best ✌🏻
+Happy Coding guys! 💻✌🏻
 
 
